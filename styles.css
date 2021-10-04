@@ -5,6 +5,11 @@
 
 body {
     font-family: Helvetica, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .content-container {
